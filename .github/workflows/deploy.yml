@@ -1,13 +1,12 @@
-name: Deploy
-on:
-  push:
-    branches:
-      - master
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
+      - name: Install Hugo
+        run: |
+          wget https://github.com/gohugoio/hugo/releases/download/v0.78.2/hugo_0.78.2_Linux-64bit.deb
+          sudo dpkg -i hugo_0.78.2_Linux-64bit.deb
       - name: Build
         run: hugo
       - name: Deploy
