@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://Ahmad-Khaled.github.io/journeyWithMe/sitemap.xml
