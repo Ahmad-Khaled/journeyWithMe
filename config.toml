@@ -1,4 +1,4 @@
-baseURL = "localhost:1313"
+baseURL = "ahmad-khaled.github.io/journeyWithMe/"
 title = "journeyWithMe"
 paginate = 5
 theme = "PaperMod"
