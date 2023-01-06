@@ -1,4 +1,4 @@
-baseURL = "https://blog.akhaled.net"
+baseURL = "blog.akhaled.net"
 title = "journeyWithMe"
 paginate = 5
 theme = "PaperMod"
