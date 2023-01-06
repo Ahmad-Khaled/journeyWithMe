@@ -1,4 +1,4 @@
-baseURL = "ahmad-khaled.github.io/journeyWithMe/"
+baseURL = "blog.akhaled.net"
 title = "journeyWithMe"
 paginate = 5
 theme = "PaperMod"

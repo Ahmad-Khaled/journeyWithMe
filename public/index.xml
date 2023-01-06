@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>journeyWithMe</title>
-    <link>https://Ahmad-Khaled.github.io/journeyWithMe/</link>
+    <link>blog.akhaled.net/</link>
     <description>Recent content on journeyWithMe</description>
     <image>
-      <url>https://Ahmad-Khaled.github.io/journeyWithMe/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://Ahmad-Khaled.github.io/journeyWithMe/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>blog.akhaled.net/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>blog.akhaled.net/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://Ahmad-Khaled.github.io/journeyWithMe/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="blog.akhaled.net/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>https://Ahmad-Khaled.github.io/journeyWithMe/about/</link>
+      <link>blog.akhaled.net/about/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://Ahmad-Khaled.github.io/journeyWithMe/about/</guid>
+      <guid>blog.akhaled.net/about/</guid>
       <description>Welcome to my personal website! I am a software engineer and machine learning enthusiast with a passion for solving real-world problems through technology. On my website, you will find my portfolio of projects, as well as my thoughts and insights on the latest developments in the tech industry. Thank you for visiting, and I hope you enjoy your stay!</description>
     </item>
     

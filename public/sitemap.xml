@@ -3,21 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://Ahmad-Khaled.github.io/journeyWithMe/about/</loc>
+    <loc>blog.akhaled.net/about/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://Ahmad-Khaled.github.io/journeyWithMe/</loc>
+    <loc>blog.akhaled.net/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://Ahmad-Khaled.github.io/journeyWithMe/categories/</loc>
+    <loc>blog.akhaled.net/categories/</loc>
   </url>
   
   <url>
-    <loc>https://Ahmad-Khaled.github.io/journeyWithMe/tags/</loc>
+    <loc>blog.akhaled.net/tags/</loc>
   </url>
   
 </urlset>
