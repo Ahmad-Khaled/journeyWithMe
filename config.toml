@@ -1,4 +1,4 @@
-baseURL = "blog.akhaled.net"
+baseURL = "https://blog.akhaled.net"
 title = "journeyWithMe"
 paginate = 5
 theme = "PaperMod"
@@ -20,7 +20,7 @@ description = "Welcome to Ahmed Khaled's personal website! I am a data engineer 
 keywords = [ "Software engineering", "Machine learning", "Artificial intelligence" , "Data science", "Computer science", "Programming", "Algorithms", "Deep learning", "Neural networks", "Data analysis" ]
 author = "Ahmed Khaled"
 images = [ "<link or path of image for opengraph, twitter-cards>" ]
-DateFormat = "January 2, 2006"
+DateFormat = "January 2, 2023"
 defaultTheme = "auto"
 disableThemeToggle = false
 ShowReadingTime = true
