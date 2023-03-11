@@ -55,7 +55,7 @@ tocopen = false
   [params.profileMode]
   enabled = true
   title = "Ahmed Khaled's Tech Blog"
-  subtitle = "Navigating the cutting-edge of software engineering, machine learning, and cloud technology"
+  subtitle = "Exploring the latest developments in software engineering, machine learning, and cloud technology"
   imageUrl = "<img location>"
   imageWidth = 120
   imageHeight = 120
